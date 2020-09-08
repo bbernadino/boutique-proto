@@ -1,0 +1,26 @@
+.signin {
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #ccc;
+  margin: 40px auto 60px;
+
+  .wrapper {
+    padding: 10px;
+
+    h2 {
+      font-size: 24px;
+      line-height: 1;
+      font-weight: 400;
+      text-transform: uppercase;
+      display: block;
+      width: 100%;
+      text-align: center;
+      padding: 0;
+      margin: 0 auto;
+    }
+
+    .social-sign-in {
+      margin: 30px auto 0;
+    }
+  }
+}
